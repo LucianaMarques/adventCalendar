@@ -4,9 +4,9 @@ This is my first advent calendar, as a gift for my dear one.
 
 ## How this works
 
-There is a block for each day from now until Christmas (December 25th).
+There is a block for each day from now until Christmas (December 25th). It is a countdown for the holidays. 
 
-Iin every block there is a gift, a message or something else done and put together here with love and care. Open up one block every day to see the surprise I selected.
+In every block there is a surprise, made with love and care. Open up one block every day to see it.
 
 ## Why? 
 
