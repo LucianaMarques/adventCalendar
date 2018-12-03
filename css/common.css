@@ -484,7 +484,6 @@ main {
 	position: absolute;
 }
 
-
 /*lets try to insert a song */
 .content__song{
 	position: relative;
@@ -521,6 +520,7 @@ main {
 .js .content__description,
 .js .content__meta,
 .js .content__number,
+.js .content__song,
 .js .btn-back {
 	opacity: 0;
 }
