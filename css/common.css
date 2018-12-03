@@ -484,6 +484,12 @@ main {
 	position: absolute;
 }
 
+
+/*lets try to insert a song */
+.content__song{
+	position: relative;
+}
+
 .btn-back {
 	font-size: 2em;
 	line-height: 2;
