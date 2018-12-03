@@ -4,12 +4,10 @@ This is my first advent calendar, as a gift for my dear one.
 
 ## How this works
 
-From now until Christmas (December 25th), you can see in every block a gift, a message or something else done and put together here with love and care.
+There is a block for each day from now until Christmas (December 25th).
 
-This is to show you how grateful I am for being together with you and to bring you joy in this time to celebrate life and all good. 
+Iin every block there is a gift, a message or something else done and put together here with love and care. Open up one block every day to see the surprise I selected.
 
-I hope you enjoy this.
+## Why? 
 
-Lu
-
-
+This is to show you how grateful I am for being together with you and to bring you joy in this time to celebrate life and all good. Consider it as a Christmas gift.  I hope you enjoy it.  
