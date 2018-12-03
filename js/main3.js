@@ -415,7 +415,7 @@
 			title = content.querySelector('.content__title'),
 			description = content.querySelector('.content__description'),
 			meta = content.querySelector('.content__meta');
-			song = content.querySelector('.content__song');
+			//song = content.querySelector('.content__song');
 
 		content.classList.add('content__block--current');
 
@@ -459,7 +459,7 @@
 			title = content.querySelector('.content__title'),
 			description = content.querySelector('.content__description'),
 			meta = content.querySelector('.content__meta');
-			song = content.querySelector('.content__song');
+			//song = content.querySelector('.content__song');
 
 		// The content number placeholder animation.
 		anime({
