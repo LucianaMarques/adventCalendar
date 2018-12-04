@@ -1,18 +1,17 @@
-1 - Grateful - message with love
+1 - Grateful - message with love - ok
 2 - Go to the movies 
-3 - Dance
-4 - Songs - O teatro magico
+3 - Dance - ok
+4 - Songs - O teatro magico - ok
 5 - Going to Garoa Hacker Club
 6 - Carolina
 7 - Parabens pelo TCC - quase la
 8 - Assistir O Guia
 9 - Ir correr no Ibirapuera
 10 - Ir no MIS - Quadrinhos
-11 - Ir na Paulista andar de yellow
+11 - Ir na Paulista andar de yellow - ok
 12 - Jogar um jogo de cartas
 13 - Set a new running goal
 14 - Playlist
-15 - Andar de yellow num domingo
 16 - Vamos num rodizio de japones
 17 - Dia 24 - um livro
 18 - Cook together something cool
