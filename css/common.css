@@ -14,7 +14,8 @@ body {
 }
 
 a {
-	color: #777785;
+	/*color: #777785;*/
+	color: #B22222;
 	outline: none;
 	display: inline-block;
 	position: relative;
