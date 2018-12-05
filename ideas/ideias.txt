@@ -8,3 +8,4 @@
 20 - Ir numa feijoada com batucada do CCB
 22 - Ir na Villa Butanta
 
+<video class="jw-video jw-reset" tabindex="-1" disaberemoteplayblack="" webkit-playsinline="" playsinline="" src="https://cdn.twit.tv/audio/floss/floss0088/floss0088.mp3"></video>
