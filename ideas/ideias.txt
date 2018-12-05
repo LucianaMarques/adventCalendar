@@ -8,16 +8,11 @@
 8 - Assistir O Guia - ok
 9 - Ir correr no Ibirapuera - ok
 10 - Ir no MIS - Quadrinhos
-11 - Ir na Paulista andar de yellow - ok
 12 - Jogar um jogo de cartas
-13 - Set a new running goal - ok
-14 - Playlist
 16 - Vamos num rodizio de japones
-17 - Dia 24 - um livro
 18 - Cook together something cool
 19 - Ir dancar forro
 20 - Ir numa feijoada com batucada do CCB
-21 - Vamos fazer bubble tea!
 22 - Ir na Villa Butanta
 23 - Entrevista com o Linus Torvalds
 24 - Pendrive com seriados
