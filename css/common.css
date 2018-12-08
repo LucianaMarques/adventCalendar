@@ -59,6 +59,14 @@ main {
 	height: 100vh;
 }
 
+/* used to center images */
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
 .hidden {
 	position: absolute;
 	overflow: hidden;
